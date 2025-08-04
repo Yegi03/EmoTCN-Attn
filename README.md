@@ -173,8 +173,8 @@ If you use this work, please cite:
 ## Authors
 
 - **Yeganeh Abdollahinejad** - Pennsylvania State University (yza5171@psu.edu)
-- **Ahmad Mousavi** - American University
-- **Zois Boukouvalas** - American University
+- **Ahmad Mousavi** - American University (mousavi@american.edu)
+- **Zois Boukouvalas** - American University (boukouva@american.edu)
 
 ## License
 
