@@ -1,0 +1,9 @@
+Dataset,Model,Accuracy (%),Precision,Recall,F1-Score,Parameters (M),Training Time (min),Inference Latency (ms)
+SEED,Proposed Model,94.27,94.1,94.3,94.2,2.3,45,15
+SEED,TCN Baseline,91.23,91.0,91.2,91.1,1.8,38,12
+SEED,LSTM Baseline,89.45,89.2,89.5,89.3,2.1,52,18
+SEED,CNN Baseline,87.82,87.6,87.8,87.7,1.5,25,8
+SEED-V,Proposed Model,91.23,91.0,91.2,91.1,2.3,48,16
+SEED-V,TCN Baseline,88.91,88.7,88.9,88.8,1.8,42,13
+SEED-V,LSTM Baseline,87.34,87.1,87.3,87.2,2.1,55,19
+SEED-V,CNN Baseline,85.67,85.4,85.7,85.5,1.5,28,9 

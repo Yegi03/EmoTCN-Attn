@@ -1,0 +1,6 @@
+True/Predicted,Happiness,Sadness,Fear,Disgust,Neutral
+Happiness,42,3,2,1,2
+Sadness,2,44,1,2,1
+Fear,1,2,43,2,2
+Disgust,1,1,2,45,1
+Neutral,2,1,1,1,45 

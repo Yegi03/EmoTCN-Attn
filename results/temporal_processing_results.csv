@@ -1,0 +1,4 @@
+Processing Strategy,Accuracy (%),Description
+Early (0-2s),89.8,Process only first 2 seconds of EEG signal
+Late (2-4s),91.5,Process only last 2 seconds of EEG signal
+Full (0-4s),94.3,Process entire 4-second EEG signal 

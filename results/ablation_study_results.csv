@@ -1,0 +1,5 @@
+Component,Performance Drop (%),Relative Impact (%)
+Multi-Head Attention,3.67,38.3
+Number of TCN Blocks,2.89,30.2
+Kernel Scale Diversity,1.56,16.3
+Dilation Rates,1.45,15.2 
